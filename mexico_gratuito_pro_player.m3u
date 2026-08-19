@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" group-title="Público / Cultural",Canal Once (IPN)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" group-title="Gobierno",Capital 21 (Gobierno CDMX)
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" group-title="Gobierno",Justicia TV (SCJN)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-name="Nayarit Comunica" group-title="Gobierno",Nayarit Comunica (Gobierno del Estado)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso" group-title="Gobierno",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" group-title="Universidades",TV BUAP (Universidad Autónoma de Puebla)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" group-title="Gobierno",Mexiquense TV (Edo. de México)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="Televisoras Nacionales",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="Televisoras Nacionales",Canal 5
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" group-title="Televisoras Nacionales",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" group-title="Noticias",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFórmula" group-title="Noticias",TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="Deportes",TUDN
+https://streaming.alwaysdata.net/tudn.php
+
+#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision" group-title="Televisoras Nacionales",Univision Latin America
+http://138.121.15.230:9002/UNIVISION/index.m3u8
