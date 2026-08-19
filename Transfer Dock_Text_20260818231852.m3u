@@ -1,5 +1,4 @@
-Películas 
-#EXTM3U
 
-#EXTINF:-1,Películas
-https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTM3U
+#EXTINF:-1,Canal de prueba
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
