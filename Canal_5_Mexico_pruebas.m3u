@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="01 - Canal 5 XHGC" group-title="Canal 5 - Pruebas",01 - Canal 5 XHGC
+http://45.68.35.218:4001/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="02 - Canal 5 México" group-title="Canal 5 - Pruebas",02 - Canal 5 México
+http://170.78.211.115:8000/play/a0ll/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="03 - Canal 5 México" group-title="Canal 5 - Pruebas",03 - Canal 5 México
+http://168.232.168.242:4000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="04 - Canal 5 MX CDN" group-title="Canal 5 - Pruebas",04 - Canal 5 MX CDN
+http://181.115.69.117:8000/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="05 - Canal 5 MX" group-title="Canal 5 - Pruebas",05 - Canal 5 MX
+http://181.174.115.86:8000/play/cc05/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="06 - Canal 5 MX IXP" group-title="Canal 5 - Pruebas",06 - Canal 5 MX IXP
+http://200.229.147.142:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="07 - Canal 5 México XHGC" group-title="Canal 5 - Pruebas",07 - Canal 5 México XHGC
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="08 - Canal 5 HD XHGC" group-title="Canal 5 - Pruebas",08 - Canal 5 HD XHGC
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="09 - Canal 5 MX" group-title="Canal 5 - Pruebas",09 - Canal 5 MX
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 tvg-id="CANAL5" tvg-name="10 - Canal 5 Mexico - ythls" group-title="Canal 5 - Pruebas",10 - Canal 5 Mexico - ythls
+https://ythls.armelin.one/channel/UCRZSTf9laa2wkHPOaiOoldA.m3u8
